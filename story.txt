@@ -1,2 +1,7 @@
 Once upon a time in a land not so far away lived a college student. They had no name, as they were just a template the reader can relate to.
 They were as relatable as could be. Their time was mostly spent procrastinating doing their comp sci 400 assignments, such as x3. In fact, they didn't even start working on it until 2 hours before the deadline.  They managed to get their work done in time so they could enjoy their spring break
+
+However, one day, disaster struck. Due to a freak lightning accident that had directly struck the Computer Science building,
+the CS Linux servers had been broken, and on the night of an assignment's due date, no less! Distraught, the college student
+tried to login in again and again, but to no avail. Concerned about the assignment impending closing, they thought deeply
+about what could be done. Suddenly, a solution came to them.
