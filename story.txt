@@ -5,3 +5,7 @@ However, one day, disaster struck. Due to a freak lightning accident that had di
 the CS Linux servers had been broken, and on the night of an assignment's due date, no less! Distraught, the college student
 tried to login in again and again, but to no avail. Concerned about the assignment impending closing, they thought deeply
 about what could be done. Suddenly, a solution came to them.
+
+They all dropped out of college and built that Alaskan cabin they often would dream about during classes. However, they quickly realized
+just because you are good at computer science does not mean you are good at cabin making, so they returned to school. Luckily, only a day had passed,
+and the due date of the assignment was pushed back a week.
